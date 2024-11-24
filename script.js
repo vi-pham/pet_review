@@ -67,7 +67,7 @@ function changePet() {
     petDescription.textContent = selectedPet.description;
 
      // descript font size
-     petDescription.style.fontSize = "14px";  // Adjust as needed
+     petDescription.style.fontSize = "14px";  
     
 
     // change bg color
